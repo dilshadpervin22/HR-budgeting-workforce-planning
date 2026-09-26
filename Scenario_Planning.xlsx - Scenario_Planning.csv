@@ -1,0 +1,4 @@
+Scenario,Business Growth,Attrition Rate,Salary Increment %,New Hires,Productivity Adjustment,Description
+Base Case,0.12,0.14,5,189,0,Planned hiring and normal attrition
+High Growth,0.2,0.15,8,255,1,Higher hiring and new teams
+Cost Optimization,0.07,0.1,5,141,-1,"Controlled hiring, mobility and automation"
